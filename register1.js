@@ -36,7 +36,7 @@ register_button.addEventListener('click', function () {
         localStorage.setItem('register_email', register_email.value)
         localStorage.setItem('register_sandi', register_sandi.value)
         alert('Register success ✅')
-        window.location = 'login.html'
+        window.location = 'login1.html'
     }
 
 })
