@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h3{
+    color: #FFCB42;
+}
+
+h5, p {
+    color : #000;
+    font-size: 20px;
+}
+
+span, h6{
+    color:white;
+}
+
+h2{
+    font-size: 20px;
+    color: #000;
+}
+.logo {
+    margin-left: 20px;
+}
+.listMenu{
+    margin-right: 20px;
+}
